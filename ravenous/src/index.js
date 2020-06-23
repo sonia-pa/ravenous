@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './components/App/App.js';
-// /Users/sonia.pa/Desktop/Ravenous/ravenous/src/components/App/App.js
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
